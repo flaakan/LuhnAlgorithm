@@ -1,6 +1,6 @@
 # LuhnAlgorithm
 
-This program is written by [Johnny Hoang](https://github.com/flaakan) and [Jesper Englund]().
+This program is written by [Johnny Hoang](https://github.com/flaakan) and [Jesper Englund](https://github.com/englundjesper).
 
 ## Information
 
